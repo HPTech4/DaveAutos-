@@ -675,7 +675,7 @@ function CtaContent() {
         fontFamily: BODY_FONT, lineHeight: 1.8,
         opacity: inView ? 1 : 0, transition: "all 0.8s ease 0.25s",
       }}>Get in touch today and let our team guide you to your perfect vehicle.</p>
-      <a href="https://wa.me/+2348165677967" target="_blank" rel="noopener noreferrer"
+      <a href="https://wa.me/+2349151369309" target="_blank" rel="noopener noreferrer"
         style={{
           display: "inline-flex", alignItems: "center", gap: 12,
           background: "#25D366", color: "#fff",
